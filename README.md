@@ -14,5 +14,4 @@
 ![Image text](https://github.com/MagicUrban/MagicPipe3D/blob/main/Picture.jpg)
 
     欢迎下载试用，官方网站：http://www.magic3d.net
-    
     QQ技术交流群：709743809
