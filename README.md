@@ -1,11 +1,4 @@
 # 参数化三维管网建模系统MagicPipe3D
-
-![Image text](https://github.com/MagicUrban/MagicPipe3D/blob/main/Picture.jpg)
-
-    欢迎下载试用：http://www.magic3d.net
-    
-    QQ技术交流群：709743809
-    
     
 1. 系统简介
 
@@ -17,5 +10,10 @@
     （2）支持完整建模流程：二维浏览、坐标系转换、属性查询、素材配置、参数化建模、模型组织、三维漫游、语义查询等，完全自主知识产权，建模过程不依赖于任何其他软件或商业库；
     （3）支持局部更新：交互式选择二维地图更新范围，局部三维建模替换，便于城市大范围三维管网模型更新维护；
     （4）参数建模灵活配置，自动提取矢量参数数据，可手动设置模型纹理、组织、输出等。
+    
+    ![Image text](https://github.com/MagicUrban/MagicPipe3D/blob/main/Picture.jpg)
 
    
+    欢迎下载试用：http://www.magic3d.net
+    
+    QQ技术交流群：709743809
