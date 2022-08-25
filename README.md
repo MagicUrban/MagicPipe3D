@@ -3,7 +3,9 @@
 ![Image text](https://github.com/MagicUrban/MagicPipe3D/blob/main/Picture.jpg)
 
     欢迎下载试用：http://www.magic3d.net
+    
     QQ技术交流群：709743809
+    
     
 1. 系统简介
 
