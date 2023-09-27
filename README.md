@@ -15,6 +15,8 @@
     
     ![Image text](https://github.com/MagicUrban/MagicPipe3D/blob/main/Picture.jpg)
 
+   ![Pipe](https://github.com/MagicUrban/MagicPipe3D/assets/56432942/16bb5221-4b1e-4a70-a5d5-e6c2ca1b30b5)
+
    
     欢迎下载试用：http://www.magic3d.net
     
