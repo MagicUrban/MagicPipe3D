@@ -11,7 +11,7 @@
     （4）支持局部更新：交互式选择二维地图更新范围，局部三维建模替换，便于城市大范围三维管网模型更新维护；
     （5）参数建模灵活配置，自动提取矢量参数数据，可手动设置模型纹理、组织、输出等。
     
-    详细介绍见：[[https://blog.csdn.net/Giser_3D/article/details/126312100?spm=1001.2014.3001.5501](https://blog.csdn.net/Giser_3D/article/details/132539916?spm=1001.2014.3001.5501)](https://blog.csdn.net/Giser_3D/article/details/136392833?spm=1001.2014.3001.5501)
+    详细介绍见：[https://blog.csdn.net/Giser_3D/article/details/136392833?spm=1001.2014.3001.5501](https://blog.csdn.net/Giser_3D/article/details/136392833?spm=1001.2014.3001.5501)
     
     ![Image text](https://github.com/MagicUrban/MagicPipe3D/blob/main/MagicPipe3D建模效果.jpg)
 
