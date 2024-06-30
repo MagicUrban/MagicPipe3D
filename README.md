@@ -12,12 +12,11 @@
     （5）参数建模灵活配置，自动提取矢量参数数据，可手动设置模型纹理、组织、输出等。
     
     详细介绍见：[https://blog.csdn.net/Giser_3D/article/details/136392833?spm=1001.2014.3001.5501](https://blog.csdn.net/Giser_3D/article/details/136392833?spm=1001.2014.3001.5501)
-    
+       
+    欢迎下载试用：http://www.magic3d.net    
+    QQ技术交流群：709743809
+   
     ![Image text](https://github.com/MagicUrban/MagicPipe3D/blob/main/MagicPipe3D建模效果.jpg)
 
    ![Pipe](https://github.com/MagicUrban/MagicPipe3D/assets/56432942/16bb5221-4b1e-4a70-a5d5-e6c2ca1b30b5)
 
-   
-    欢迎下载试用：http://www.magic3d.net
-    
-    QQ技术交流群：709743809
